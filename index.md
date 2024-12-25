@@ -15,11 +15,14 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🛠️
+    title: Library
+    details: 收錄各種實用的程式庫，包含前端開發常用的套件，並附上相關連結
+  - icon: 📝
+    title: Note
+    details: 這裡收錄了各種開發過程中的心得筆記的實用知識
+  - icon: 📖
+    title: VitePress md Example
+    details: 收錄 VitePress 的 Markdown 語法範例，包含程式碼區塊、語法高亮、自定義容器等功能。
 ---
 
