@@ -11,6 +11,7 @@ export default defineConfig({
 			{ text: "Markdown Examples", link: "/markdown-examples" },
 			{ text: "Runtime API Examples", link: "/api-examples" },
 			{ text: "Library", link: "/library" },
+			{ text: "Resources", link: "/resources" },
 		],
 
 		sidebar: [
@@ -34,6 +35,14 @@ export default defineConfig({
 					{ text: "onScan", link: "/library/onscan" },
 					{ text: "EChart", link: "/library/echart" },
 					{ text: "Print.js", link: "/library/print-js" },
+				],
+			},
+			{
+				text: "Resources",
+				items: [
+					{ text: "Introduction", link: "/resources" },
+					{ text: "Vue FAQ", link: "/resources/VueFaq" },
+					{ text: "Vue Style Guide", link: "/resources/VueStyleGuide" },
 				],
 			},
 		],
