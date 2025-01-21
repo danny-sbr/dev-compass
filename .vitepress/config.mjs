@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "doc",
+	title: "🏠",
 	description: "doc description ",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
@@ -13,6 +13,9 @@ export default defineConfig({
 			{ text: "Library", link: "/library" },
 			{ text: "Resources", link: "/resources" },
 		],
+		search: {
+			provider: "local",
+		},
 
 		sidebar: [
 			{
