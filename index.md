@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "doc"
-  text: "doc description "
-  tagline: My great project tagline
+  name: "前端開發寶典"
+  text: "網頁開發技術指南針"
+  tagline: 收錄實用的開發資源與技術筆記
   actions:
     - theme: brand
       text: Markdown Examples
