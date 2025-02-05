@@ -46,6 +46,10 @@ export default defineConfig({
 					{ text: "Introduction", link: "/resources" },
 					{ text: "Vue FAQ", link: "/resources/VueFaq" },
 					{ text: "Vue Style Guide", link: "/resources/VueStyleGuide" },
+					{
+						text: "Conventional Commits",
+						link: "/resources/ConventionalCommits",
+					},
 				],
 			},
 		],
